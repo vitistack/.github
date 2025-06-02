@@ -1,4 +1,4 @@
-# VITI
+# Viti
 
 Viti is a stack of software aimed at deploying infrastructure and kubernetes from bare metal to virtual clusters.
 
